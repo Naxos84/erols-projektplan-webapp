@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/erols-projektplan-webapp/static/css/main.6b6f46e0.css",
+    "main.js": "/erols-projektplan-webapp/static/js/main.bc76aa1b.js",
+    "static/js/453.649ffa53.chunk.js": "/erols-projektplan-webapp/static/js/453.649ffa53.chunk.js",
+    "index.html": "/erols-projektplan-webapp/index.html",
+    "main.6b6f46e0.css.map": "/erols-projektplan-webapp/static/css/main.6b6f46e0.css.map",
+    "main.bc76aa1b.js.map": "/erols-projektplan-webapp/static/js/main.bc76aa1b.js.map",
+    "453.649ffa53.chunk.js.map": "/erols-projektplan-webapp/static/js/453.649ffa53.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b6f46e0.css",
+    "static/js/main.bc76aa1b.js"
+  ]
+}
